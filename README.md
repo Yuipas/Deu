@@ -1,5 +1,5 @@
 <p align="center">
-<img src="docs/deu-total-deepsaffron-transparent.png" height="120px" alt="Deu Logo" title="Deu Logo">
+<img src="docs/deu-total-deepsaffron-transparent.png" height="220px" alt="Deu Logo" title="Deu Logo">
 </p>
 
 **Deu** is a powerful, general purpose, interpreted programming language made in <a href="http://dlang.org/">D</a>.  
