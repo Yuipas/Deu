@@ -1,0 +1,9 @@
+{
+	"name": "deu",
+	"authors": [
+		"Yuipas"
+	],
+	"description": "A high-level, interpreted programming language written in D.",
+	"copyright": "Copyright © 2018, Yuipas",
+	"license": "MIT"
+}
